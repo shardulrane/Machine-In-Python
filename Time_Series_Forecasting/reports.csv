@@ -1,0 +1,501 @@
+,Owner,Report_Id,Cost,Industry,Technology,CAGR,Market_Size
+0,Shardul,71751,165,Composites,Internet of Things(IoT),14,913
+1,Shardul,35176,150,Banking,Wearable,112,791
+2,Shardul,91787,171,Composites,Drones,4,380
+3,Shardul,21954,237,Clinical Trials,Smart Manufacturing,105,942
+4,Shardul,84569,180,Insurance,3D Printing,277,334
+5,Shardul,96723,228,Theraputic Area,3D Printing,246,635
+6,Shardul,33703,214,Manufacturing,Robotics,32,391
+7,Shardul,49320,243,Drug Discovery,Smart Manufacturing,291,845
+8,Shardul,29026,240,Process Control,3D Printing,64,661
+9,Shardul,89910,199,Advanced Materials,Connectivity,284,947
+10,Shardul,80701,193,Plastics,Drones,143,746
+11,Shardul,81769,239,Technology,Internet of Things(IoT),297,899
+12,Shardul,78565,136,Building Materials,Blockchain,60,284
+13,Shardul,88178,245,Logistics,Blockchain,62,187
+14,Shardul,59338,206,Adhesives & Sealants,Cloud Computing,241,855
+15,Shardul,45857,156,Rubber,Robotics,251,366
+16,Shardul,59743,247,Drug Delivery,Wearable,196,700
+17,Shardul,18086,205,Retails,Smart Manufacturing,160,592
+18,Shardul,69615,165,Healthcare,Cloud Computing,24,731
+19,Shardul,41584,199,Ceramics,3D Printing,228,107
+20,Shardul,72560,171,Pharmanceutical Manufacturing,Digitization,241,818
+21,Shardul,79633,227,Medical Imaging,Wearable,165,130
+22,Shardul,31858,105,Technology,Connectivity,83,653
+23,Shardul,15836,221,Marketing,Drones,11,345
+24,Shardul,63902,112,Engineering,Wearable,40,648
+25,Shardul,19704,154,Clinical Trials,AR/VR,228,610
+26,Shardul,78855,196,Semiconductor,Digitization,267,848
+27,Shardul,48284,104,Energy and Power,Internet of Things(IoT),92,578
+28,Shardul,39998,206,Aerospace,Blockchain,279,729
+29,Shardul,17972,134,Chemicals,Robotics,43,485
+30,Shardul,57493,214,Medical Devices,Blockchain,105,874
+31,Shardul,38930,181,Automotive,Self Driving Cars,199,959
+32,Shardul,21176,234,Theraputic Area,Connectivity,116,867
+33,Shardul,47880,224,Nanomaterials,3D Printing,-4,537
+34,Shardul,67770,226,Hardware,Smart Infrastructure,69,898
+35,Shardul,34657,221,Vitamins & Dietary Suppliments,Cloud Computing,126,154
+36,Shardul,33994,131,Transportation,Robotics,2,495
+37,Shardul,9427,115,Biotechnology,Cloud Computing,263,525
+38,Shardul,83128,194,Food,Drones,145,919
+39,Shardul,35466,218,Textiles,Blockchain,76,294
+40,Himanshu,78451,142,Process Control,3D Printing,35,862
+41,Himanshu,2613,248,Pharmanceutical Manufacturing,Blockchain,237,271
+42,Himanshu,30126,233,Plastics,AR/VR,50,681
+43,Himanshu,94473,112,Semiconductor,Blockchain,289,887
+44,Himanshu,27990,226,Biopharmaceuticals,Big Data & Analytics,206,854
+45,Himanshu,882,194,Robotics,Connectivity,-4,699
+46,Himanshu,8763,247,Construction,Nano Technology,178,494
+47,Himanshu,58561,224,Transportation,Drones,85,424
+48,Himanshu,35726,184,Energy and Power,Self Driving Cars,260,213
+49,Himanshu,30789,167,Drug Delivery,Smart Manufacturing,118,830
+50,Himanshu,19040,241,Drug Discovery,Smart Manufacturing,96,688
+51,Himanshu,54288,164,Hardware,Cloud Computing,183,147
+52,Himanshu,48543,141,Government,Cloud Computing,180,207
+53,Himanshu,92337,131,Pharmanceutical Manufacturing,Big Data & Analytics,71,124
+54,Himanshu,34398,231,Pharmaceuticals,Wearable,74,581
+55,Himanshu,81655,198,Software,Cloud Computing,107,337
+56,Himanshu,93000,142,Aerospace,Big Data & Analytics,91,444
+57,Himanshu,85523,182,Material Handling Equipment,Big Data & Analytics,284,272
+58,Himanshu,7954,105,Agriculture,Self Driving Cars,296,353
+59,Himanshu,14104,164,Software,Drones,-9,519
+60,Himanshu,42539,120,Retails,3D Printing,96,333
+61,Himanshu,83792,147,Automotive,Wearable,120,924
+62,Himanshu,86591,157,Telecom,Internet of Things(IoT),291,585
+63,Himanshu,4750,141,Healthcare,Nano Technology,96,244
+64,Himanshu,23717,154,Defense,Wearable,-9,174
+65,Himanshu,13699,154,Diagnostics,Artificial Intelligence,152,415
+66,Himanshu,70310,200,Government,Robotics,3,475
+67,Himanshu,477,224,Logistics,Digitization,33,717
+68,Himanshu,36535,188,Aerospace,Drones,225,769
+69,Himanshu,75246,183,Healthcare,Artificial Intelligence,102,817
+70,Himanshu,12227,178,Composites,Blockchain,224,853
+71,Himanshu,1286,153,"HVAC (Heating, Ventilation, & Air Conditioning)",Smart Infrastructure,245,894
+72,Himanshu,80992,224,Banking,Connectivity,299,181
+73,Himanshu,41875,230,Transportation,Self Driving Cars,80,387
+74,Himanshu,59224,177,Beverage,Wearable,220,333
+75,Himanshu,60293,160,Defense,Cloud Computing,265,212
+76,Himanshu,57088,234,Logistics,Nano Technology,214,584
+77,Himanshu,66701,129,Semiconductor,Self Driving Cars,120,170
+78,Himanshu,37862,154,Building Materials,Blockchain,245,671
+79,Himanshu,24381,234,Biotechnology,AR/VR,143,426
+80,Himanshu,38266,146,Building Materials,AR/VR,295,147
+81,Himanshu,96609,232,Metals & Minerals,Internet of Things(IoT),189,935
+82,Himanshu,21581,100,Clinical Trials,Self Driving Cars,56,123
+83,Himanshu_S,20108,216,Telecom,Smart Infrastructure,26,847
+84,Himanshu_S,51084,229,Hospital Management,Smart Infrastructure,223,795
+85,Himanshu_S,58156,205,Oncology Drugs,Nano Technology,200,409
+86,Himanshu_S,63497,165,Chemicals,Blockchain,207,924
+87,Himanshu_S,47475,105,Clinical Trials,Connectivity,229,739
+88,Himanshu_S,95541,132,Biotechnology,Connectivity,210,868
+89,Himanshu_S,24785,244,Rubber,Digitization,96,140
+90,Himanshu_S,10495,227,"HVAC (Heating, Ventilation, & Air Conditioning)",Smart Infrastructure,121,216
+91,Himanshu_S,79924,178,Telecom,Big Data & Analytics,-10,632
+92,Himanshu_S,45080,181,Energy and Power,Drones,23,191
+93,Himanshu_S,49611,219,Pharmanceutical Manufacturing,Robotics,240,570
+94,Himanshu_S,89132,218,Robotics,Blockchain,240,790
+95,Himanshu_S,44012,108,Automation,Robotics,296,512
+96,Himanshu_S,52816,159,Oncology Drugs,Nano Technology,175,417
+97,Himanshu_S,79519,206,Robotics,Artificial Intelligence,115,868
+98,Himanshu_S,99409,207,Construction,Artificial Intelligence,21,350
+99,Himanshu_S,39739,139,Robotics,AR/VR,272,843
+100,Himanshu_S,65633,142,Glass,Drones,85,568
+101,Himanshu_S,41066,157,Beverage,Artificial Intelligence,225,873
+102,Himanshu_S,14767,164,Diagnostics,Smart Manufacturing,276,735
+103,Himanshu_S,67106,244,Marketing,AR/VR,269,594
+104,Himanshu_S,10090,243,Education,AR/VR,9,996
+105,Himanshu_S,7695,152,FMCG,Robotics,209,961
+106,Himanshu_S,61765,127,Biotechnology,Drones,92,616
+107,Himanshu_S,26112,151,Oncology Drugs,Smart Manufacturing,254,289
+108,Himanshu_S,59629,156,Rubber,Internet of Things(IoT),182,435
+109,Himanshu_S,32521,222,Logistics,Blockchain,113,172
+110,Himanshu_S,40403,143,Glass,Internet of Things(IoT),166,811
+111,Himanshu_S,90200,165,Marketing,Self Driving Cars,86,297
+112,Himanshu_S,40807,208,Packaging,Internet of Things(IoT),220,501
+113,Himanshu_S,62429,156,Telecom,Smart Manufacturing,11,833
+114,Himanshu_S,50679,168,Vitamins & Dietary Suppliments,Smart Manufacturing,96,496
+115,Himanshu_S,85928,177,Chemicals and Materials,Smart Infrastructure,162,869
+116,Himanshu_S,80183,192,Insurance,Cloud Computing,227,709
+117,Himanshu_S,23976,202,Robotics,Internet of Things(IoT),66,166
+118,Himanshu_S,66038,239,Process Control,Smart Infrastructure,96,227
+119,Himanshu_S,13295,177,Energy and Power,AR/VR,91,694
+120,Himanshu_S,98082,177,Automation,Self Driving Cars,138,855
+121,Himanshu_S,90605,234,Energy and Power,Blockchain,159,861
+122,Himanshu_S,13036,164,Software,Internet of Things(IoT),41,405
+123,Himanshu_S,45743,102,Rubber,Wearable,204,787
+124,Yash,74178,135,Automation,Connectivity,175,524
+125,Yash,15431,229,Metals & Minerals,AR/VR,68,211
+126,Yash,91673,118,Finance,Smart Manufacturing,156,348
+127,Yash,9831,212,Chemicals & Materials,3D Printing,298,657
+128,Yash,55356,189,Marketing,Self Driving Cars,55,426
+129,Yash,45339,246,Banking,Cloud Computing,243,232
+130,Yash,1950,230,Banking,Nano Technology,123,476
+131,Yash,5559,180,Retails,Smart Manufacturing,170,771
+132,Yash,68174,148,Hardware,Internet of Things(IoT),186,443
+133,Yash,6886,127,Agriculture,Connectivity,136,884
+134,Yash,17308,165,Food,Connectivity,212,111
+135,Yash,32926,155,Drug Discovery,Self Driving Cars,245,322
+136,Yash,12631,205,Education,Connectivity,275,475
+137,Yash,73515,238,Aerospace,Smart Manufacturing,175,529
+138,Yash,90864,245,Retails,Nano Technology,224,551
+139,Yash,91932,216,Healthcare,Robotics,34,981
+140,Yash,88728,212,Material Handling Equipment,Drones,183,110
+141,Yash,98341,132,Construction,Robotics,223,265
+142,Yash,42943,210,Manufacturing,Artificial Intelligence,20,515
+143,Yash,56020,145,Drug Discovery,Smart Infrastructure,114,816
+144,Yash,69906,244,Automotive,Digitization,168,553
+145,Yash,28249,246,Clinical Trials,Digitization,-4,120
+146,Yash,53220,214,Retails,Self Driving Cars,44,495
+147,Yash,51748,138,Healthcare,Smart Manufacturing,112,793
+148,Yash,82723,210,Nanomaterials,Drones,186,951
+149,Yash,89796,168,Marketing,Self Driving Cars,171,617
+150,Yash,95137,191,Oncology Drugs,Wearable,144,970
+151,Yash,79115,208,Machinery,Self Driving Cars,300,647
+152,Yash,27180,214,Automation,Big Data & Analytics,260,315
+153,Yash,56425,135,Biotechnology,Drones,18,840
+154,Yash,42134,247,Machinery,Nano Technology,180,807
+155,Yash,11563,177,Industrial Automation,Wearable,199,157
+156,Yash,76719,235,Metals & Minerals,Nano Technology,161,493
+157,Yash,81251,141,Technology,Wearable,171,286
+158,Yash,20772,113,Logistics,Wearable,233,700
+159,Yash,75651,190,Medical Imaging,Internet of Things(IoT),143,819
+160,Yash,84455,106,"HVAC (Heating, Ventilation, & Air Conditioning)",Robotics,241,218
+161,Yash,11158,195,Adhesives & Sealants,Smart Manufacturing,75,632
+162,Yash,4491,241,Education,Robotics,282,918
+163,Yash,71378,174,Construction,Connectivity,154,281
+164,Yash,97273,186,Robotics,Self Driving Cars,234,755
+165,Yash,46148,150,Energy and Power,Digitization,165,125
+166,Satyajeet,46407,216,Vitamins & Dietary Suppliments,Blockchain,187,561
+167,Satyajeet,98745,206,Metals & Minerals,Self Driving Cars,47,991
+168,Satyajeet,15172,185,Ceramics,Connectivity,123,890
+169,Satyajeet,39334,141,Plastics,Smart Manufacturing,227,245
+170,Satyajeet,93405,244,Banking,Smart Manufacturing,183,855
+171,Satyajeet,31194,230,Government,Robotics,252,876
+172,Satyajeet,91268,209,Process Control,Nano Technology,134,477
+173,Satyajeet,37603,137,Textiles,Nano Technology,-1,164
+174,Satyajeet,72042,138,Semiconductor,Internet of Things(IoT),166,881
+175,Satyajeet,21840,150,Hospital Management,Artificial Intelligence,123,467
+176,Satyajeet,72447,147,Composites,Self Driving Cars,98,310
+177,Satyajeet,94068,170,Process Control,Connectivity,142,660
+178,Satyajeet,82319,238,Machinery,AR/VR,240,667
+179,Satyajeet,17567,142,Composites,Smart Infrastructure,150,851
+180,Satyajeet,85264,180,Biotechnology,Drones,161,348
+181,Satyajeet,29058,100,Drug Discovery,Big Data & Analytics,78,720
+182,Satyajeet,97677,185,Food,Big Data & Analytics,192,329
+183,Satyajeet,18376,210,Advanced Materials,Self Driving Cars,167,1000
+184,Satyajeet,29721,212,Automotive,Smart Manufacturing,109,792
+185,Satyajeet,22244,232,Automation,Self Driving Cars,229,524
+186,Satyajeet,44675,120,Composites,Digitization,78,996
+187,Satyajeet,77383,147,Laboratory Equipment,Drones,200,720
+188,Satyajeet,5818,230,Chemicals & Materials,Robotics,190,160
+189,Satyajeet,20513,113,Automation,Drones,30,696
+190,Satyajeet,23312,119,Medical Imaging,Internet of Things(IoT),127,138
+191,Satyajeet,41471,195,Technology,Smart Infrastructure,68,657
+192,Satyajeet,86996,186,Packaging,Connectivity,132,566
+193,Satyajeet,76978,205,Energy and Power,Wearable,142,192
+194,Satyajeet,33589,226,Manufacturing & Industry,3D Printing,124,102
+195,Satyajeet,37198,100,Hospital Management,Cloud Computing,203,299
+196,Satyajeet,99814,145,Construction,Big Data & Analytics,298,308
+197,Satyajeet,11968,219,Healthcare Services,Self Driving Cars,232,767
+198,Satyajeet,48948,123,Drug Discovery,Digitization,217,141
+199,Satyajeet,64565,240,Retails,Self Driving Cars,-4,146
+200,Satyajeet,44271,184,Metals & Minerals,Nano Technology,253,897
+201,Satyajeet,5154,239,Telecom,Cloud Computing,39,627
+202,Satyajeet,95946,122,Construction,AR/VR,14,861
+203,Satyajeet,97014,175,Healthcare,Robotics,224,825
+204,Satyajeet,93809,152,Chemicals and Materials,Self Driving Cars,193,144
+205,Satyajeet,3422,224,Adhesives & Sealants,Nano Technology,143,600
+206,Satyajeet,74583,105,Machine Parts,Smart Manufacturing,118,115
+207,Satyajeet,87660,104,Energy and Power,AR/VR,204,874
+208,Abhishek,1545,223,Composites,Blockchain,171,854
+209,Abhishek,33330,244,Marketing,Internet of Things(IoT),96,525
+210,Abhishek,84860,125,Energy and Power,Digitization,107,737
+211,Abhishek,83387,238,Manufacturing,Connectivity,9,879
+212,Abhishek,14363,190,Telecom,Wearable,78,775
+213,Abhishek,94877,193,Medical Imaging,Artificial Intelligence,244,104
+214,Abhishek,218,231,Medical Devices,Cloud Computing,291,315
+215,Abhishek,84196,104,Metals & Minerals,Self Driving Cars,279,142
+216,Abhishek,32262,152,Process Control,Cloud Computing,9,593
+217,Abhishek,88064,125,Insurance,Drones,261,109
+218,Abhishek,47216,136,FMCG,Smart Infrastructure,106,890
+219,Abhishek,43202,116,Education,Internet of Things(IoT),54,672
+220,Abhishek,8359,170,Retails,Drones,158,236
+221,Abhishek,86332,111,Hospital Management,Big Data & Analytics,145,129
+222,Abhishek,25853,127,Biopharmaceuticals,Self Driving Cars,293,867
+223,Abhishek,7290,138,Chemicals and Materials,Connectivity,300,674
+224,Abhishek,89537,248,Aerospace,Internet of Things(IoT),21,569
+225,Abhishek,16240,174,Pharmaceuticals,AR/VR,14,674
+226,Abhishek,36130,113,Aerospace,Robotics,281,106
+227,Abhishek,3018,148,Machine Parts,Nano Technology,212,221
+228,Abhishek,2354,227,Education,Smart Manufacturing,232,184
+229,Abhishek,77787,218,Energy and Power,Smart Infrastructure,22,827
+230,Abhishek,78046,158,Glass,3D Printing,111,444
+231,Abhishek,30385,216,Industrial Automation,Cloud Computing,292,699
+232,Abhishek,46811,136,Automation,Wearable,253,657
+233,Abhishek,70974,177,Manufacturing & Industry,Robotics,44,694
+234,Abhishek,25044,109,Banking,Nano Technology,230,992
+235,Abhishek,62833,229,Agriculture,3D Printing,173,141
+236,Abhishek,22908,120,Laboratory Equipment,Big Data & Analytics,142,152
+237,Abhishek,69242,175,Rubber,Big Data & Analytics,5,326
+238,Abhishek,3682,172,Engineering,Robotics,220,426
+239,Abhishek,26921,207,Hospital Management,Artificial Intelligence,236,459
+240,Abhishek,4086,142,Beverage,Connectivity,10,965
+241,Abhishek,99150,238,Healthcare Services,Drones,29,939
+242,Abhishek,87400,155,Construction,AR/VR,166,359
+243,Abhishek,22649,212,Technology,Self Driving Cars,139,141
+244,Abhishek,16904,177,Robotics,Wearable,31,399
+245,Abhishek,60697,175,"HVAC (Heating, Ventilation, & Air Conditioning)",Blockchain,283,348
+246,Abhishek,29317,143,Telecom,Internet of Things(IoT),160,456
+247,Abhishek,50016,153,Energy and Power,Self Driving Cars,237,723
+248,Abhishek,61361,112,Technology,Cloud Computing,219,755
+249,Abhishek,53884,235,Metals & Minerals,AR/VR,288,713
+250,Abhishek,76315,186,Defense,Nano Technology,254,254
+251,Abhishek,9022,231,Manufacturing,Digitization,288,124
+252,Aditya,10899,107,Rubber,Robotics,82,375
+253,Aditya,52152,119,Nanomaterials,Connectivity,10,490
+254,Aditya,54952,132,Chemicals,Digitization,259,978
+255,Aditya,73110,221,Construction,Smart Manufacturing,191,318
+256,Aditya,18635,193,Biopharmaceuticals,Robotics,99,675
+257,Aditya,82060,145,Machine Parts,Connectivity,102,262
+258,Aditya,38671,214,Construction,Nano Technology,54,477
+259,Aditya,68838,151,Construction,Cloud Computing,176,624
+260,Aditya,31453,160,Logistics,Wearable,106,264
+261,Aditya,43607,162,Vitamins & Dietary Suppliments,AR/VR,11,817
+262,Aditya,80587,109,Machinery,Nano Technology,290,344
+263,Aditya,96205,236,Metals & Minerals,Smart Infrastructure,266,128
+264,Aditya,75910,126,Rubber,Blockchain,94,341
+265,Aditya,36794,206,Robotics,Blockchain,18,650
+266,Aditya,27585,236,Pharmaceuticals,Artificial Intelligence,98,632
+267,Aditya,28653,227,Food,Blockchain,1,262
+268,Aditya,25449,176,Advanced Materials,Artificial Intelligence,76,245
+269,Aditya,35062,161,Construction,Digitization,213,609
+270,Aditya,6222,215,Aerospace,Blockchain,208,170
+271,Aditya,92741,189,Construction,Big Data & Analytics,-5,350
+272,Aditya,6627,155,Healthcare Services,Nano Technology,290,570
+273,Aditya,64970,128,Plastics,Connectivity,74,964
+274,Aditya,16499,180,Banking,Connectivity,105,342
+275,Aditya,88469,145,Metals & Minerals,Drones,298,504
+276,Aditya,19444,115,Education,Wearable,279,471
+277,Aditya,26517,232,Advertising,Smart Infrastructure,77,878
+278,Aditya,76656,220,Laboratory Equipment,Robotics,294,963
+279,Aditya,92273,241,Rubber,Big Data & Analytics,72,978
+280,Aditya,71979,201,Chemicals and Materials,Cloud Computing,171,424
+281,Aditya,32862,118,Chemicals,Robotics,171,774
+282,Aditya,50212,100,Defense,Internet of Things(IoT),65,966
+283,Aditya,51280,182,Machinery,Nano Technology,82,432
+284,Aditya,48075,229,Textiles,Cloud Computing,63,349
+285,Aditya,57688,170,Biotechnology,Robotics,190,759
+286,Aditya,2291,124,Plastics,Cloud Computing,118,468
+287,Aditya,15368,164,Material Handling Equipment,Self Driving Cars,262,545
+288,Aditya,29253,134,Retails,Blockchain,272,489
+289,Aditya,87596,225,Marketing,3D Printing,293,175
+290,Aditya,12568,188,Pharmanceutical Manufacturing,Robotics,12,437
+291,Aditya,11095,157,Plastics,Connectivity,121,950
+292,Aditya,42071,103,Glass,Big Data & Analytics,26,863
+293,Aditya,49143,160,Transportation,Drones,182,999
+294,Preeti,54484,222,Construction,3D Printing,116,381
+295,Preeti,38462,163,Advanced Materials,Wearable,68,870
+296,Preeti,86528,172,Metals & Minerals,Robotics,115,201
+297,Preeti,15772,183,Advanced Materials,Drones,176,998
+298,Preeti,1482,246,Biotechnology,Artificial Intelligence,35,247
+299,Preeti,70911,160,Robotics,Nano Technology,266,334
+300,Preeti,36067,100,Beverage,Big Data & Analytics,276,900
+301,Preeti,40598,242,Transportation,3D Printing,274,420
+302,Preeti,80119,177,Government,Self Driving Cars,31,178
+303,Preeti,34999,243,Education,Artificial Intelligence,9,674
+304,Preeti,43803,189,Material Handling Equipment,Big Data & Analytics,117,790
+305,Preeti,70506,147,Advertising,Smart Infrastructure,195,102
+306,Preeti,63838,214,Technology,Drones,133,168
+307,Preeti,30726,179,Defense,Connectivity,169,811
+308,Preeti,56620,150,Clinical Trials,Nano Technology,182,448
+309,Preeti,5495,195,Engineering,Nano Technology,195,471
+310,Preeti,5754,229,Technology,Big Data & Analytics,94,872
+311,Preeti,58093,124,Medical Imaging,Wearable,106,194
+312,Preeti,74519,133,Building Materials,Digitization,159,508
+313,Preeti,98682,216,Beverage,Robotics,6,309
+314,Preeti,52752,184,Technology,Big Data & Analytics,131,509
+315,Preeti,90541,135,Drug by Therapeutic Area,Blockchain,264,357
+316,Preeti,50616,143,Defense,Blockchain,270,819
+317,Preeti,96950,165,Drug by Therapeutic Area,Smart Infrastructure,59,157
+318,Preeti,31390,180,Metals & Minerals,Digitization,198,195
+319,Preeti,81187,223,Medical Devices,Drones,260,398
+320,Preeti,31794,143,Chemicals & Materials,Big Data & Analytics,243,444
+321,Preeti,53416,182,Material Handling Equipment,Big Data & Analytics,-1,899
+322,Preeti,41666,241,Manufacturing,3D Printing,117,874
+323,Preeti,76915,218,Biopharmaceuticals,Internet of Things(IoT),140,128
+324,Preeti,44612,240,FMCG,Blockchain,270,476
+325,Preeti,88405,232,Aerospace,AR/VR,18,584
+326,Preeti,57025,168,Advertising,Wearable,74,501
+327,Preeti,77724,192,Engineering,Big Data & Analytics,93,811
+328,Preeti,89069,242,Drug Discovery,Big Data & Analytics,38,488
+329,Preeti,81592,241,Composites,Wearable,268,423
+330,Preeti,4023,243,Energy and Power,Big Data & Analytics,46,235
+331,Preeti,36730,125,Hardware,Internet of Things(IoT),262,894
+332,Preeti,65165,159,Energy and Power,Smart Manufacturing,286,717
+333,Preeti,79860,158,Drug Delivery,Big Data & Analytics,235,601
+334,Preeti,82660,207,Defense,Artificial Intelligence,261,801
+335,Kumar,818,172,Insurance,Connectivity,66,482
+336,Kumar,46343,200,Machine Parts,Cloud Computing,167,269
+337,Kumar,36326,209,Plastics,Smart Manufacturing,31,282
+338,Kumar,92937,127,Drug Delivery,AR/VR,122,123
+339,Kumar,96546,199,Industrial Automation,3D Printing,186,468
+340,Kumar,59161,169,Food,Connectivity,81,547
+341,Kumar,71315,117,Metals & Minerals,Drones,6,956
+342,Kumar,8295,200,Automotive,Drones,57,796
+343,Kumar,23913,121,Packaging,Robotics,97,739
+344,Kumar,3618,134,Theraputic Area,Nano Technology,237,872
+345,Kumar,64502,208,Metals & Minerals,Internet of Things(IoT),157,343
+346,Kumar,55293,202,Manufacturing & Industry,AR/VR,141,514
+347,Kumar,56361,113,Mining,Smart Manufacturing,184,712
+348,Kumar,53157,242,Finance,Connectivity,252,330
+349,Kumar,62770,159,Semiconductor,AR/VR,70,154
+350,Kumar,33930,241,Diagnostics,Self Driving Cars,112,553
+351,Kumar,47007,100,Theraputic Area,Robotics,139,854
+352,Kumar,60893,115,Biopharmaceuticals,Drones,64,490
+353,Kumar,92678,128,Hardware,Cloud Computing,231,598
+354,Kumar,44207,170,Semiconductor,Wearable,237,326
+355,Kumar,42735,163,Education,Smart Manufacturing,113,588
+356,Kumar,73710,186,Pharmaceuticals,Digitization,296,209
+357,Kumar,54225,244,Glass,3D Printing,25,260
+358,Kumar,59566,215,Semiconductor,Nano Technology,60,912
+359,Kumar,43544,224,Composites,3D Printing,220,784
+360,Kumar,91610,218,Building Materials,Nano Technology,91,525
+361,Kumar,47412,126,Metals & Minerals,AR/VR,172,703
+362,Kumar,6563,143,"HVAC (Heating, Ventilation, & Air Conditioning)",Artificial Intelligence,157,101
+363,Kumar,2550,102,Pharmanceutical Manufacturing,Digitization,120,465
+364,Kumar,67706,178,Plastics,AR/VR,185,365
+365,Kumar,45680,215,Clinical Trials,Connectivity,229,615
+366,Kumar,85201,130,Retails,Connectivity,194,769
+367,Kumar,66638,143,Process Control,Internet of Things(IoT),286,289
+368,Kumar,48884,133,Drug Discovery,3D Printing,73,836
+369,Kumar,75588,186,Diagnostics,Smart Manufacturing,14,883
+370,Kumar,95478,249,Manufacturing,Smart Infrastructure,57,311
+371,Kumar,62365,183,Industrial Automation,Smart Manufacturing,69,136
+372,Kumar,61702,229,Nanomaterials,Digitization,238,435
+373,Kumar,37135,190,Healthcare Services,Cloud Computing,125,390
+374,Kumar,37394,214,Glass,Self Driving Cars,75,919
+375,Kumar,89732,187,Banking,Self Driving Cars,259,580
+376,Chetan,6159,240,Construction,Internet of Things(IoT),69,331
+377,Chetan,30321,236,Marketing,3D Printing,139,854
+378,Chetan,84392,105,Drug Discovery,Smart Infrastructure,289,412
+379,Chetan,22181,233,Drug Delivery,Digitization,161,272
+380,Chetan,82255,117,Manufacturing,Smart Manufacturing,11,371
+381,Chetan,28590,235,Laboratory Equipment,Big Data & Analytics,126,526
+382,Chetan,63029,208,Laboratory Equipment,Artificial Intelligence,283,500
+383,Chetan,86269,184,Healthcare,Nano Technology,92,519
+384,Chetan,63434,141,Building Materials,Smart Manufacturing,215,456
+385,Chetan,58497,167,Construction,Digitization,45,261
+386,Chetan,46748,245,Finance,Blockchain,3,148
+387,Chetan,81996,222,Industrial Automation,Self Driving Cars,4,403
+388,Chetan,76251,120,Manufacturing & Industry,Internet of Things(IoT),182,738
+389,Chetan,20045,154,Beverage,Digitization,12,272
+390,Chetan,88664,223,Hardware,Cloud Computing,13,741
+391,Chetan,9363,223,Building Materials,Smart Manufacturing,45,546
+392,Chetan,20708,247,Vitamins & Dietary Suppliments,Robotics,135,931
+393,Chetan,13231,169,Technology,Nano Technology,294,818
+394,Chetan,35662,225,Material Handling Equipment,Robotics,265,916
+395,Chetan,68370,128,Construction,3D Printing,261,984
+396,Chetan,70247,242,Telecom,Smart Manufacturing,231,388
+397,Chetan,11500,174,Manufacturing & Industry,Wearable,118,282
+398,Chetan,14299,161,Drug Discovery,Smart Infrastructure,223,117
+399,Chetan,32458,233,Retails,Smart Infrastructure,105,207
+400,Chetan,77983,198,Oncology Drugs,Smart Manufacturing,123,869
+401,Chetan,41407,216,Insurance,Connectivity,184,250
+402,Chetan,98018,238,Metals & Minerals,Internet of Things(IoT),73,967
+403,Chetan,28185,107,Industrial Automation,Internet of Things(IoT),29,917
+404,Chetan,90801,107,Finance,Cloud Computing,-1,939
+405,Chetan,2955,196,Insurance,Nano Technology,149,885
+406,Chetan,39935,241,Manufacturing & Industry,Robotics,273,886
+407,Chetan,55552,126,Agriculture,3D Printing,298,377
+408,Chetan,35258,189,Marketing,3D Printing,80,385
+409,Chetan,96141,139,Automotive,Nano Technology,-7,425
+410,Chetan,86933,227,Manufacturing & Industry,Nano Technology,174,105
+411,Chetan,88001,191,Government,Big Data & Analytics,214,982
+412,Chetan,84796,215,Chemicals & Materials,Internet of Things(IoT),24,538
+413,Chetan,94409,180,Finance,Self Driving Cars,25,554
+414,Chetan,65570,196,Construction,Digitization,222,472
+415,Chetan,52089,207,Automation,Artificial Intelligence,183,408
+416,Chetan,65974,160,Mining,Self Driving Cars,9,526
+417,Neha ,24317,213,Government,AR/VR,11,950
+418,Neha ,75847,234,Chemicals,Nano Technology,205,708
+419,Neha ,47816,236,Chemicals,Cloud Computing,100,120
+420,Neha ,78792,151,Building Materials,Drones,194,731
+421,Neha ,85864,105,Chemicals,Smart Infrastructure,3,623
+422,Neha ,91205,109,Engineering,3D Printing,189,383
+423,Neha ,75183,231,Metals & Minerals,Blockchain,257,273
+424,Neha ,23249,201,Construction,Blockchain,76,898
+425,Neha ,79051,227,Software,3D Printing,277,650
+426,Neha ,38203,134,Vitamins & Dietary Suppliments,Nano Technology,199,782
+427,Neha ,7632,231,Rubber,Blockchain,124,831
+428,Neha ,99346,208,Chemicals & Materials,AR/VR,62,254
+429,Neha ,77319,242,FMCG,Smart Manufacturing,39,299
+430,Neha ,16840,124,Process Control,Cloud Computing,53,306
+431,Neha ,98277,179,Advertising,Robotics,265,376
+432,Neha ,80524,205,FMCG,Drones,248,589
+433,Neha ,7227,134,Telecom,Drones,283,844
+434,Neha ,27117,190,Oncology Drugs,AR/VR,224,457
+435,Neha ,94005,190,Banking,Artificial Intelligence,129,619
+436,Neha ,93341,199,Automation,Artificial Intelligence,56,182
+437,Neha ,68774,164,Machinery,Artificial Intelligence,98,538
+438,Neha ,42475,122,Theraputic Area,AR/VR,169,908
+439,Neha ,94814,229,Mining,Smart Manufacturing,236,791
+440,Neha ,37798,239,FMCG,Big Data & Analytics,94,992
+441,Neha ,61961,101,Chemicals and Materials,Cloud Computing,227,350
+442,Neha ,89473,177,FMCG,Blockchain,32,327
+443,Neha ,53820,219,Construction,Artificial Intelligence,16,646
+444,Neha ,87337,197,Biotechnology,Wearable,279,538
+445,Neha ,60229,131,Robotics,Cloud Computing,46,310
+446,Neha ,68111,184,Drug Delivery,Digitization,218,251
+447,Neha ,17908,173,Mining,Big Data & Analytics,133,189
+448,Neha ,95073,115,Theraputic Area,Drones,120,401
+449,Neha ,90137,247,Telecom,Self Driving Cars,129,721
+450,Neha ,78387,117,Automation,Smart Manufacturing,13,346
+451,Neha ,13636,246,Diagnostics,Artificial Intelligence,127,424
+452,Neha ,7891,152,Aerospace,Robotics,20,314
+453,Neha ,51684,166,Industrial Automation,Big Data & Analytics,118,995
+454,Neha ,93746,165,Transportation,Blockchain,-5,348
+455,Neha ,41003,143,Pharmaceuticals,AR/VR,217,145
+456,Neha ,52348,181,Rubber,Robotics,60,1000
+457,Neha ,44871,138,Machinery,Big Data & Analytics,139,194
+458,Neha ,67302,115,Hardware,Blockchain,212,208
+459,Pradnyot,73451,122,Government,Nano Technology,84,616
+460,Pradnyot,1886,216,Adhesives & Sealants,Blockchain,29,352
+461,Pradnyot,43139,235,Construction,Connectivity,100,161
+462,Pradnyot,45939,103,Laboratory Equipment,Robotics,159,737
+463,Pradnyot,64097,181,Composites,Self Driving Cars,206,948
+464,Pradnyot,83065,151,Textiles,Blockchain,155,577
+465,Pradnyot,73047,234,Construction,Drones,25,327
+466,Pradnyot,29658,237,Semiconductor,Wearable,15,269
+467,Pradnyot,59825,212,Chemicals,Internet of Things(IoT),272,779
+468,Pradnyot,95882,137,Biotechnology,Smart Manufacturing,5,827
+469,Pradnyot,34594,234,Robotics,Connectivity,-10,519
+470,Pradnyot,71574,156,Metals & Minerals,Big Data & Analytics,269,863
+471,Pradnyot,60634,174,Plastics,Digitization,170,604
+472,Pradnyot,40339,174,Advertising,Cloud Computing,4,840
+473,Pradnyot,1223,110,Machine Parts,Drones,277,827
+474,Pradnyot,18572,247,Composites,Smart Manufacturing,96,853
+475,Pradnyot,19640,172,Banking,Smart Manufacturing,248,857
+476,Pradnyot,16436,164,Healthcare,Self Driving Cars,127,102
+477,Pradnyot,26049,101,Government,Blockchain,256,292
+478,Pradnyot,97209,134,Hospital Management,AR/VR,95,999
+479,Pradnyot,83728,186,Energy and Power,Nano Technology,117,422
+480,Pradnyot,97614,200,Energy and Power,Self Driving Cars,253,864
+481,Pradnyot,55957,199,Ceramics,3D Printing,97,960
+482,Pradnyot,80928,228,Automotive,Big Data & Analytics,170,983
+483,Pradnyot,79456,190,Drug Delivery,Nano Technology,5,787
+484,Pradnyot,10431,183,Process Control,3D Printing,182,591
+485,Pradnyot,17504,149,Vitamins & Dietary Suppliments,Cloud Computing,294,957
+486,Pradnyot,22845,223,Drug by Therapeutic Area,Drones,260,638
+487,Pradnyot,6823,133,Theraputic Area,Smart Infrastructure,266,955
+488,Pradnyot,54889,207,Machine Parts,Nano Technology,232,533
+489,Pradnyot,84133,203,Process Control,Wearable,163,524
+490,Pradnyot,69842,189,Banking,Wearable,268,822
+491,Pradnyot,39271,170,Oncology Drugs,Internet of Things(IoT),19,632
+492,Pradnyot,4427,139,Construction,Cloud Computing,39,361
+493,Pradnyot,8959,248,Building Materials,Drones,66,887
+494,Pradnyot,48480,242,Beverage,3D Printing,140,209
+495,Pradnyot,3359,159,Material Handling Equipment,Smart Manufacturing,146,993
+496,Pradnyot,12163,164,Chemicals,Smart Infrastructure,123,324
+497,Pradnyot,38867,123,Plastics,AR/VR,118,778
+498,Pradnyot,58757,135,Pharmanceutical Manufacturing,Smart Manufacturing,155,156
+499,Pradnyot,99087,183,Drug by Therapeutic Area,Self Driving Cars,38,335
